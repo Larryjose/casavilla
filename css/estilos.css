@@ -352,7 +352,7 @@ img{
     height: 3.8rem;
 }
 .separador{
-    background-image: url('../assets/img/ensalada.webp');
+    background-image: url('img/ensalada.webp');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
