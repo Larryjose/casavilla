@@ -538,6 +538,8 @@ img{
     border-radius: 0;
 }
 .footer{
+padding-top: 10px;
+padding-bottom: 10px;
     text-align: center;
     background-color: var(--oscuro);
     color: var(--blanco);
